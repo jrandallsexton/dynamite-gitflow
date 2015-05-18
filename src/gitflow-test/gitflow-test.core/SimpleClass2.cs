@@ -10,5 +10,6 @@ namespace gitflow_test.core
     {
         public string NewProperty { get; set; }
         public string BF12345 { get; set; }
+        public string BF5555 { get; set; }
     }
 }
