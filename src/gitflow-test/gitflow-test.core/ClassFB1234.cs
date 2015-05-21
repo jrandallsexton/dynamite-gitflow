@@ -9,7 +9,7 @@ namespace gitflow_test.core
     public class ClassFB1234
     {
         public string Desc { get; set; }
-
+        public string Prop3333 { get; set; }
         public ClassFB1234()
         {
             this.Desc = "I weas created as a part of Feature 1234";
